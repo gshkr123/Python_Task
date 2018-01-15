@@ -1,0 +1,492 @@
+[
+ {
+   "Tran Date": "10-Jan-14",
+   "PARTICULARS": "PUR/VAISHNAVI   /VIJAYAWADA/011014/21:38",
+   "DR": 3150,
+   "CR": 0,
+   "BAL": 7833.99
+ },
+ {
+   "Tran Date": "10-Nov-14",
+   "PARTICULARS": "ATM-CASH-AXIS/BENZ CIRLE - O/VIJAYAWADA/111014",
+   "DR": 1500,
+   "CR": 0,
+   "BAL": 6333.99
+ },
+ {
+   "Tran Date": "10-Nov-14",
+   "PARTICULARS": "Service Tax @12.36% on Charge",
+   "DR": 1.24,
+   "CR": 0,
+   "BAL": 6332.75
+ },
+ {
+   "Tran Date": "10-Nov-14",
+   "PARTICULARS": "Consolidated Charges for A/c",
+   "DR": 10,
+   "CR": 0,
+   "BAL": 6322.75
+ },
+ {
+   "Tran Date": "21-Oct-14",
+   "PARTICULARS": "PUR/Yatra online Pvt./Gurgaon/211014/18:38",
+   "DR": 4474,
+   "CR": 0,
+   "BAL": 1848.75
+ },
+ {
+   "Tran Date": "31-Oct-14",
+   "PARTICULARS": "NEFT/CITIN14482103122/TATA CONSULTANCY SERVICES LI",
+   "DR": 0,
+   "CR": 22870,
+   "BAL": 24718.75
+ },
+ {
+   "Tran Date": "11-Oct-14",
+   "PARTICULARS": "ATM-CASH/+GHATKOPER  MUMBAI/MUMBAI/101114",
+   "DR": 10000,
+   "CR": 0,
+   "BAL": 14718.75
+ },
+ {
+   "Tran Date": "11-Oct-14",
+   "PARTICULARS": "ATM-CASH/+GHATKOPER  MUMBAI/MUMBAI/101114",
+   "DR": 10000,
+   "CR": 0,
+   "BAL": 4718.75
+ },
+ {
+   "Tran Date": "11-Oct-14",
+   "PARTICULARS": "ATM-CASH/+GHATKOPER  MUMBAI/MUMBAI/101114",
+   "DR": 3000,
+   "CR": 0,
+   "BAL": 1718.75
+ },
+ {
+   "Tran Date": "28-Nov-14",
+   "PARTICULARS": "NEFT/CITIN14490808784/TATA CONSULTANCY SERVICES LI",
+   "DR": 0,
+   "CR": 27989,
+   "BAL": 29707.75
+ },
+ {
+   "Tran Date": "12-Mar-14",
+   "PARTICULARS": "PUR/FREECHARGE PU/GURGAON/031214/09:55",
+   "DR": 151,
+   "CR": 0,
+   "BAL": 29556.75
+ },
+ {
+   "Tran Date": "12-Apr-14",
+   "PARTICULARS": "ATM-CASH/+Tata Cons  Serv A/Mumbai/041214",
+   "DR": 6000,
+   "CR": 0,
+   "BAL": 23556.75
+ },
+ {
+   "Tran Date": "12-Aug-14",
+   "PARTICULARS": "INB/127125959/ICICI BANK CREDIT CARD(/",
+   "DR": 1299,
+   "CR": 0,
+   "BAL": 22257.75
+ },
+ {
+   "Tran Date": "12-Oct-14",
+   "PARTICULARS": "ATM-CASH/+Tata Cons  Serv A/Mumbai/101214",
+   "DR": 7000,
+   "CR": 0,
+   "BAL": 15257.75
+ },
+ {
+   "Tran Date": "22-Dec-14",
+   "PARTICULARS": "NEFT/IR/AXIR143562757610/Y Suryanarayana/Payment",
+   "DR": 8300,
+   "CR": 0,
+   "BAL": 6957.75
+ },
+ {
+   "Tran Date": "22-Dec-14",
+   "PARTICULARS": "PUR/FREECHARGE PU/GURGAON/221214/23:05",
+   "DR": 200,
+   "CR": 0,
+   "BAL": 6757.75
+ },
+ {
+   "Tran Date": "22-Dec-14",
+   "PARTICULARS": "PUR/FREECHARGE PU/GURGAON/221214/23:11",
+   "DR": 151,
+   "CR": 0,
+   "BAL": 6606.75
+ },
+ {
+   "Tran Date": "24-Dec-14",
+   "PARTICULARS": "PUR/FREECHARGE PU/GURGAON/241214/17:03",
+   "DR": 155,
+   "CR": 0,
+   "BAL": 6451.75
+ },
+ {
+   "Tran Date": "26-Dec-14",
+   "PARTICULARS": "ATM-CASH/+BPCL OUTLET SUREN/MUMBAI/261214",
+   "DR": 1500,
+   "CR": 0,
+   "BAL": 4951.75
+ },
+ {
+   "Tran Date": "29-Dec-14",
+   "PARTICULARS": "ATM-CASH/UBI SHIRDI BR/AHMED NAGAR/281214",
+   "DR": 2000,
+   "CR": 0,
+   "BAL": 2951.75
+ },
+ {
+   "Tran Date": "31-Dec-14",
+   "PARTICULARS": "NEFT/CITIN14501109060/TATA CONSULTANCY SERVICES LI",
+   "DR": 0,
+   "CR": 22742,
+   "BAL": 25693.75
+ },
+ {
+   "Tran Date": "31-Dec-14",
+   "PARTICULARS": "914010002800672:Int.Pd:01-10-2014 to 31-12-2014",
+   "DR": 0,
+   "CR": 111,
+   "BAL": 25804.75
+ },
+ {
+   "Tran Date": "31-Dec-14",
+   "PARTICULARS": "ATM-CASH-AXIS/+ANDHERI EAST/MUMBAI/311214",
+   "DR": 6000,
+   "CR": 0,
+   "BAL": 19804.75
+ },
+ {
+   "Tran Date": "1-Jun-15",
+   "PARTICULARS": "PUR/ABHIBUS SERVICES-/MUMBAI/060115/17:49",
+   "DR": 750,
+   "CR": 0,
+   "BAL": 19054.75
+ },
+ {
+   "Tran Date": "1-Aug-15",
+   "PARTICULARS": "PUR/ABHIBUS SERVICES-/MUMBAI/080115/17:36",
+   "DR": 359,
+   "CR": 0,
+   "BAL": 18695.75
+ },
+ {
+   "Tran Date": "1-Sep-15",
+   "PARTICULARS": "PUR/REDBUS IN/GURGAON/090115/12:15",
+   "DR": 1090,
+   "CR": 0,
+   "BAL": 17605.75
+ },
+ {
+   "Tran Date": "1-Oct-15",
+   "PARTICULARS": "PUR/DOMINOS/HYDERABAD/100115/16:59",
+   "DR": 236.42,
+   "CR": 0,
+   "BAL": 17369.33
+ },
+ {
+   "Tran Date": "1-Dec-15",
+   "PARTICULARS": "PUR/FREECHARGE PU/GURGAON/110115/09:51",
+   "DR": 162,
+   "CR": 0,
+   "BAL": 17207.33
+ },
+ {
+   "Tran Date": "1-Dec-15",
+   "PARTICULARS": "ATM-CASH-AXIS/+BOMBAY-HYDERA/KUKATPALLY/110115",
+   "DR": 2000,
+   "CR": 0,
+   "BAL": 15207.33
+ },
+ {
+   "Tran Date": "1-Dec-15",
+   "PARTICULARS": "PUR/CENTRO/HYDERABAD/110115/21:03",
+   "DR": 1327,
+   "CR": 0,
+   "BAL": 13880.33
+ },
+ {
+   "Tran Date": "13-Jan-15",
+   "PARTICULARS": "REFUND/REDBUS IN\\VATIK/09-JAN-15",
+   "DR": 0,
+   "CR": 1090,
+   "BAL": 14970.33
+ },
+ {
+   "Tran Date": "15-Jan-15",
+   "PARTICULARS": "NEFT/MB/AXMB150156112718/ACHANTA ANANTHA LAKSHMI",
+   "DR": 1700,
+   "CR": 0,
+   "BAL": 13270.33
+ },
+ {
+   "Tran Date": "17-Jan-15",
+   "PARTICULARS": "INB/131601790/E-BILLING SOLUTIONS PVT/",
+   "DR": 367,
+   "CR": 0,
+   "BAL": 12903.33
+ },
+ {
+   "Tran Date": "19-Jan-15",
+   "PARTICULARS": "Service Tax @12.36% on Charge",
+   "DR": 1.85,
+   "CR": 0,
+   "BAL": 12901.48
+ },
+ {
+   "Tran Date": "19-Jan-15",
+   "PARTICULARS": "Consolidated Charges for A/c",
+   "DR": 15,
+   "CR": 0,
+   "BAL": 12886.48
+ },
+ {
+   "Tran Date": "20-Jan-15",
+   "PARTICULARS": "PUR/FREECHARGE PU/GURGAON/200115/10:47",
+   "DR": 151,
+   "CR": 0,
+   "BAL": 12735.48
+ },
+ {
+   "Tran Date": "20-Jan-15",
+   "PARTICULARS": "ICONN.REF/131601790/EBS/DT.20150117",
+   "DR": 0,
+   "CR": 266,
+   "BAL": 13001.48
+ },
+ {
+   "Tran Date": "23-Jan-15",
+   "PARTICULARS": "ATM-CASH/+GHATKOPER  MUMBAI/MUMBAI/230115",
+   "DR": 2000,
+   "CR": 0,
+   "BAL": 11001.48
+ },
+ {
+   "Tran Date": "24-Jan-15",
+   "PARTICULARS": "NEFT/MB/AXMB150247022038/ACHANTA ANANTHA LAKSHMI",
+   "DR": 2000,
+   "CR": 0,
+   "BAL": 9001.48
+ },
+ {
+   "Tran Date": "27-Jan-15",
+   "PARTICULARS": "PUR/DEALSKART ONLINE/MUMBAI/260115/18:53",
+   "DR": 1678,
+   "CR": 0,
+   "BAL": 7323.48
+ },
+ {
+   "Tran Date": "27-Jan-15",
+   "PARTICULARS": "ATM-CASH-AXIS/+ANDHERI EAST/MUMBAI/270115",
+   "DR": 4500,
+   "CR": 0,
+   "BAL": 2823.48
+ },
+ {
+   "Tran Date": "30-Jan-15",
+   "PARTICULARS": "NEFT/CITIN15508605940/TATA CONSULTANCY SERVICES LI",
+   "DR": 0,
+   "CR": 23254,
+   "BAL": 26077.48
+ },
+ {
+   "Tran Date": "2-Mar-15",
+   "PARTICULARS": "NEFT/ANDBN15034865952/SURYANARAYANA YENDURI",
+   "DR": 0,
+   "CR": 600,
+   "BAL": 26677.48
+ },
+ {
+   "Tran Date": "2-Jun-15",
+   "PARTICULARS": "ATM-CASH/+Tata Cons  Serv A/Mumbai/060215",
+   "DR": 5000,
+   "CR": 0,
+   "BAL": 21677.48
+ },
+ {
+   "Tran Date": "2-Jul-15",
+   "PARTICULARS": "ATM-CASH/+SHANGHANI NAKA/MUMBAI/070215",
+   "DR": 10000,
+   "CR": 0,
+   "BAL": 11677.48
+ },
+ {
+   "Tran Date": "14-Feb-15",
+   "PARTICULARS": "POS/FREECHARGE PU/GURGAON/140215/14:38",
+   "DR": 151,
+   "CR": 0,
+   "BAL": 11526.48
+ },
+ {
+   "Tran Date": "18-Feb-15",
+   "PARTICULARS": "ATM-CASH/+Tata CS Banyan Pa/Mumbai/180215",
+   "DR": 2000,
+   "CR": 0,
+   "BAL": 9526.48
+ },
+ {
+   "Tran Date": "25-Feb-15",
+   "PARTICULARS": "ATM-CASH/+Tata CS Banyan Pa/Mumbai/250215",
+   "DR": 6000,
+   "CR": 0,
+   "BAL": 3526.48
+ },
+ {
+   "Tran Date": "27-Feb-15",
+   "PARTICULARS": "NEFT/CITIN15517588306/TATA CONSULTANCY SERVICES LI",
+   "DR": 0,
+   "CR": 24804,
+   "BAL": 28330.48
+ },
+ {
+   "Tran Date": "3-Feb-15",
+   "PARTICULARS": "POS/FREECHARGE PU/GURGAON/010315/19:23",
+   "DR": 151,
+   "CR": 0,
+   "BAL": 28179.48
+ },
+ {
+   "Tran Date": "3-Jul-15",
+   "PARTICULARS": "ATM-CASH/+GHATKOPER  MUMBAI/MUMBAI/070315",
+   "DR": 5000,
+   "CR": 0,
+   "BAL": 23179.48
+ },
+ {
+   "Tran Date": "3-Sep-15",
+   "PARTICULARS": "POS/Paytm.com/Noida/080315/12:55",
+   "DR": 300,
+   "CR": 0,
+   "BAL": 22879.48
+ },
+ {
+   "Tran Date": "3-Oct-15",
+   "PARTICULARS": "INB/137651816/INDIAN RAILWAY CORPORAT/",
+   "DR": 277.48,
+   "CR": 0,
+   "BAL": 22602
+ },
+ {
+   "Tran Date": "16-Mar-15",
+   "PARTICULARS": "POS/Paytm.com/Noida/150315/15:02",
+   "DR": 134.9,
+   "CR": 0,
+   "BAL": 22467.1
+ },
+ {
+   "Tran Date": "18-Mar-15",
+   "PARTICULARS": "ATM-CASH/+ANDHERI KURLA RD/MUMBAI/180315",
+   "DR": 10000,
+   "CR": 0,
+   "BAL": 12467.1
+ },
+ {
+   "Tran Date": "18-Mar-15",
+   "PARTICULARS": "ATM-CASH/+ANDHERI KURLA RD/MUMBAI/180315",
+   "DR": 10000,
+   "CR": 0,
+   "BAL": 2467.1
+ },
+ {
+   "Tran Date": "19-Mar-15",
+   "PARTICULARS": "ECOM PUR/Paytm.com/Noida/200315/00:11",
+   "DR": 9,
+   "CR": 0,
+   "BAL": 2458.1
+ },
+ {
+   "Tran Date": "30-Mar-15",
+   "PARTICULARS": "ECOM PUR/Paytm.com/Noida/290315/11:45",
+   "DR": 800,
+   "CR": 0,
+   "BAL": 1658.1
+ },
+ {
+   "Tran Date": "31-Mar-15",
+   "PARTICULARS": "NEFT/CITIN15528239913/TATA CONSULTANCY SERVICES LI",
+   "DR": 0,
+   "CR": 23254,
+   "BAL": 24912.1
+ },
+ {
+   "Tran Date": "31-Mar-15",
+   "PARTICULARS": "914010002800672:Int.Pd:01-01-2015 to 31-03-2015",
+   "DR": 0,
+   "CR": 147,
+   "BAL": 25059.1
+ },
+ {
+   "Tran Date": "4-Feb-15",
+   "PARTICULARS": "ATM-CASH/+METRO W.E.H STN 1/MUMBAI/020415",
+   "DR": 5500,
+   "CR": 0,
+   "BAL": 19559.1
+ },
+ {
+   "Tran Date": "4-Jun-15",
+   "PARTICULARS": "ECOM PUR/Paytm.com/Noida/060415/22:18",
+   "DR": 5.46,
+   "CR": 0,
+   "BAL": 19553.64
+ },
+ {
+   "Tran Date": "4-Sep-15",
+   "PARTICULARS": "ATM-CASH/+Tata CS Banyan Pa/Mumbai/090415",
+   "DR": 2000,
+   "CR": 0,
+   "BAL": 17553.64
+ },
+ {
+   "Tran Date": "18-Apr-15",
+   "PARTICULARS": "ECOM PUR/MOBIKWIK/NEW DELHI/180415/20:05",
+   "DR": 200.22,
+   "CR": 0,
+   "BAL": 17353.42
+ },
+ {
+   "Tran Date": "18-Apr-15",
+   "PARTICULARS": "ECOM PUR/MOBIKWIK/NEW DELHI/180415/20:11",
+   "DR": 200.22,
+   "CR": 0,
+   "BAL": 17153.2
+ },
+ {
+   "Tran Date": "24-Apr-15",
+   "PARTICULARS": "ECOM PUR/MOBIKWIK/NEW DELHI/240415/22:05",
+   "DR": 98.24,
+   "CR": 0,
+   "BAL": 17054.96
+ },
+ {
+   "Tran Date": "30-Apr-15",
+   "PARTICULARS": "NEFT/CITIN15537702792/TATA CONSULTANCY SERVICES LI",
+   "DR": 0,
+   "CR": 20456,
+   "BAL": 37510.96
+ },
+ {
+   "Tran Date": "30-Apr-15",
+   "PARTICULARS": "ECOM PUR/MOBIKWIK/NEW DELHI/300415/16:16",
+   "DR": 283.48,
+   "CR": 0,
+   "BAL": 37227.48
+ },
+ {
+   "Tran Date": "30-Apr-15",
+   "PARTICULARS": "ECOM PUR/MOBIKWIK/NEW DELHI/300415/18:29",
+   "DR": 77.87,
+   "CR": 0,
+   "BAL": 37149.61
+ },
+ {
+   "Tran Date": "30-Apr-15",
+   "PARTICULARS": "POS/AAYUSHI SUPER MAR/MUMBAI/300415/20:53",
+   "DR": 330,
+   "CR": 0,
+   "BAL": 36819.61
+ }
+]
